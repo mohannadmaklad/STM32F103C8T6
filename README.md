@@ -1,5 +1,4 @@
 # STM32F103C8T6
-Some projects for STM32F103C8T6 board compiled using Keil IDE
 
 I've used SPI2 of the microcontroller to communicate with the LCD (SPI is mapped to JTAG pins so I couldn't use it).
 

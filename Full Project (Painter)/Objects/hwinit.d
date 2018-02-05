@@ -1,0 +1,9 @@
+.\objects\hwinit.o: HWInit.c
+.\objects\hwinit.o: stm32f10x.h
+.\objects\hwinit.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm3.h
+.\objects\hwinit.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\hwinit.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\objects\hwinit.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\objects\hwinit.o: system_stm32f10x.h
+.\objects\hwinit.o: GPIO.h
+.\objects\hwinit.o: interrupt.h

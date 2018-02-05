@@ -1,0 +1,11 @@
+.\objects\sort.o: sort.c
+.\objects\sort.o: sort.h
+.\objects\sort.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\sort.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sort.o: lcd.h
+.\objects\sort.o: stm32f10x.h
+.\objects\sort.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm3.h
+.\objects\sort.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\objects\sort.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\objects\sort.o: system_stm32f10x.h
+.\objects\sort.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h

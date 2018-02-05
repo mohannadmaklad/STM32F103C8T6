@@ -5,11 +5,11 @@ I've used SPI2 of the microcontroller to communicate with the LCD (SPI is mapped
 
 LCD to board pinout :
 
-GN    ----> GND
-LIGHT ----> GND
-VCC   ----> 3.3 V on board
-CLK   ----> PB2
-DIN   ----> PB4
-DC    ----> PA9
-CE    ----> PB1
-RST   ----> PA8
+GN    ----> GND  
+LIGHT ----> GND  
+VCC   ----> 3.3 V on board  
+CLK   ----> PB2  
+DIN   ----> PB4  
+DC    ----> PA9  
+CE    ----> PB1  
+RST   ----> PA8  

@@ -5,7 +5,7 @@ I've used SPI2 of the microcontroller to communicate with the LCD (SPI is mapped
 
 LCD to board pinout :
 
-GN    ----> GND  
+GND   ----> GND  
 LIGHT ----> GND  
 VCC   ----> 3.3 V on board  
 CLK   ----> PB2  

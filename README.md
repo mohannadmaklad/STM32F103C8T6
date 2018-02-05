@@ -1,6 +1,6 @@
 # STM32F103C8T6
 
-I've used SPI2 of the microcontroller to communicate with the LCD (SPI is mapped to JTAG pins so I couldn't use it).
+I've used SPI 2 of the microcontroller to communicate with the LCD (SPI 1 is mapped to JTAG pins so I couldn't use it).
 
 LCD to board pinout :
 

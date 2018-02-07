@@ -12,3 +12,5 @@ DIN   ----> PB4
 DC    ----> PA9  
 CE    ----> PB1  
 RST   ----> PA8  
+
+Video of the project working : https://www.youtube.com/watch?v=4ncDKTLFsH8  
